@@ -13,7 +13,7 @@ jobs:
         runs-on: ubuntu-latest
         services:
           docker:
-            image: docker:27.0.3
+            image: docker:latest
             options: --privileged
 
         steps:
@@ -38,8 +38,8 @@ jobs:
       needs: build
       services:
         docker:
-          image: docker
-          options: privileged
+          image: docker:latest
+          options: --privileged
 
       steps:
         - name: Checkout code
