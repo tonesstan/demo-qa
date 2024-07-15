@@ -13,7 +13,7 @@ jobs:
         runs-on: ubuntu-latest
         services:
           docker:
-            image: docker
+            image: docker:27.0.3
             options: privileged
 
         steps:
