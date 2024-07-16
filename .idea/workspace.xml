@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b8be604-249c-44cd-b4a4-9fc4e2e24ffa" name="Changes" comment="Some additions to README file have been written">
-      <change afterPath="$PROJECT_DIR$/Grafana_screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+    <list default="true" id="4b8be604-249c-44cd-b4a4-9fc4e2e24ffa" name="Changes" comment="Added the ability of both local and docker test run, and also integration with Prometheus and screenshot of Grafana dashboards with test metrics.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AutoTests/TestDemoQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AutoTests/TestDemoQA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721019232487</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added the ability of both local and docker test run, and also integration with Prometheus and screenshot of Grafana dashboards with test metrics.">
+      <option name="closed" value="true" />
+      <created>1721108200634</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721108200634</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +185,7 @@
     <MESSAGE value="Error in ci.yml fixed" />
     <MESSAGE value="Few changes and error fix" />
     <MESSAGE value="Some additions to README file have been written" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some additions to README file have been written" />
+    <MESSAGE value="Added the ability of both local and docker test run, and also integration with Prometheus and screenshot of Grafana dashboards with test metrics." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the ability of both local and docker test run, and also integration with Prometheus and screenshot of Grafana dashboards with test metrics." />
   </component>
 </project>
