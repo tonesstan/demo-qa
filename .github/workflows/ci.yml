@@ -89,5 +89,5 @@ jobs:
           with:
             name: test artifacts
             path: |
-              ./videos/
+              ./video/
               ./logs/
